@@ -1,0 +1,14 @@
+program pdv;
+
+uses
+  Vcl.Forms,
+  urfmLogin in 'urfmLogin.pas' {UfrmLogin};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TUfrmLogin, UfrmLogin);
+  Application.Run;
+end.

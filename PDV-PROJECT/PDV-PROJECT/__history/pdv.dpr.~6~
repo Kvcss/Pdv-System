@@ -1,0 +1,22 @@
+program pdv;
+
+uses
+  Vcl.Forms,
+  urfmLogin in 'urfmLogin.pas' {UfrmLogin},
+  ufrmMenu in 'ufrmMenu.pas' {FrmMenu},
+  ufrmUsuarios in 'ufrmUsuarios.pas' {FrmUsuarios},
+  urfmFuncionarios in 'urfmFuncionarios.pas' {FrmFuncionarios},
+  urfmCargos in 'urfmCargos.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TUfrmLogin, UfrmLogin);
+  Application.CreateForm(TFrmMenu, FrmMenu);
+  Application.CreateForm(TFrmUsuarios, FrmUsuarios);
+  Application.CreateForm(TFrmFuncionarios, FrmFuncionarios);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

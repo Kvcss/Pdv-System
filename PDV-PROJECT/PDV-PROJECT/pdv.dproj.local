@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/10 10:11:32.000.206,=C:\Users\grv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/14 09:26:18.000.206,=C:\Users\grv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/17 14:13:05.000.052,=C:\Users\grv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/24 13:22:52.000.815,=C:\Users\grv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/24 13:23:57.000.677,C:\Users\grv\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\urfmLogin.dfm</Transaction>
+    <Transaction>2022/03/24 13:23:57.000.677,C:\Users\grv\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\urfmLogin.pas</Transaction>
+    <Transaction>2022/03/24 14:12:26.000.349,C:\Users\grv\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\pdv.dproj</Transaction>
+    <Transaction>2022/03/24 14:12:49.000.674,=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas</Transaction>
+    <Transaction>2022/03/24 14:13:17.000.194,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\ufrmMenu.pas</Transaction>
+    <Transaction>2022/03/24 14:13:17.000.194,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.dfm=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\ufrmMenu.dfm</Transaction>
+    <Transaction>2022/03/24 14:50:37.000.449,=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas</Transaction>
+    <Transaction>2022/03/24 14:51:04.000.965,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.dfm=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\ufrmUsuarios.dfm</Transaction>
+    <Transaction>2022/03/24 14:51:04.000.965,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\ufrmUsuarios.pas</Transaction>
+    <Transaction>2022/03/25 08:51:40.034,=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 08:51:57.610,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\urfmFuncionarios.pas=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 08:51:57.610,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\urfmFuncionarios.dfm=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.dfm</Transaction>
+    <Transaction>2022/03/25 09:35:31.912,=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 09:36:48.966,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\urfmCargos.pas=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 09:36:48.966,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\urfmCargos.dfm=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.dfm</Transaction>
+    <Transaction>2022/03/25 09:54:45.228,=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 09:55:09.106,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\dm.dfm=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.dfm</Transaction>
+    <Transaction>2022/03/25 09:55:09.106,C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\dm.pas=C:\Users\grv\Desktop\projetosConcluidos\PDV-PROJECT\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
